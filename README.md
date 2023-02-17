@@ -366,6 +366,8 @@ It is important to make sure that both positive and negative legs of the LED is 
 1. We could redesign this game so that it is more friendly for younger children.
 2. Rethinking the scale for this project: can we create a bigger one? Instead of a board game, we can make it an in person experience.
 3. Potential to bring the digital miro board to schools so that teachers can carry out the project independently with no need of the physical artifact.
+4. Develop the graphic design of board, button and cards (maybe create a brand). Ideas: create a box for the cards, separate the button of the arduino board, a box for the arduino, a base for the board.
+
 
 ## Related Links and Resources
 
