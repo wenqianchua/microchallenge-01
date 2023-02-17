@@ -352,13 +352,4 @@ It is important to make sure that both positive and negative legs of the LED is 
 - Jimena:
 - Wen:
 - [Course Miro](https://miro.com/app/board/uXjVPpFL9hU=/)
-
-## Open Content Requirements
-- [ ] Add names and links to your individual pages
-- [x] Design process (How did you iterate)
-- [x] Fabrication Process
-- [x] System Diagram (illustration, explaining function parts and relations)
-- [x] BOM (Build of Materials)
-- [x] Reflect about Future developments opportunity
-- [x] Described problems and how the team solved them
-- [ ] Photograph's of the end artefacts
+- [HackMD](https://hackmd.io/izcCP8XMRhSYw7DjiI5WZQ?view)
