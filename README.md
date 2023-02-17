@@ -262,15 +262,27 @@ The final results.
 
 ![](https://i.imgur.com/s5FMcKz.jpg)
 
+### End Product Photos
+
+![](https://i.imgur.com/oJt99Sh.jpg)
+
+![](https://i.imgur.com/prGCLvp.jpg)
+
+![](https://i.imgur.com/rcXHXSW.jpg)
+
+![](https://i.imgur.com/vmUgAhx.jpg)
+
+We learned that different colored LEDs use different resistors. This is important to keep in mind for future product development.
 
 ## BOM (Build of Materials)
 
 ### Rhino File
+
 ![](https://i.imgur.com/QN9TVuO.png)
 
 [Finalized Perception Board Design](https://drive.google.com/file/d/1eNC3txrAcA03Y3lSA-IwaHUPuCSF7dFS/view?usp=sharing)
 
-**Note: Feel free to adjust LED hole size depending on the LED size. We tried 6mm and 2mm.
+**Note: Feel free to adjust LED hole size depending on the LED size. We tried 6mm and 2mm. 2mm works best for smaller LEDs.
 
 ### Printable A4 Cards
 
@@ -316,13 +328,17 @@ It is important to make sure that both positive and negative legs of the LED is 
 
 5. Run Code! and voilà! You have it!
 
+![](https://i.imgur.com/ZjAcDWH.jpg)
+
+
 
 ### Physical Material Resources
 - Wooden Panels / Card Board Sheet
-- 0.5mm LED lights
+- 0.5mm LED lights (green, yellow and red)
 - Wires
-- Aruduino Board
-- Thick paper
+- Battery
+- Arduino Board
+- Thick paper for cards
 
 ## System Diagram
 *Illustration explaining funciton, parts and relations*
@@ -348,8 +364,8 @@ It is important to make sure that both positive and negative legs of the LED is 
 
 ## Related Links and Resources
 
-- Ariel:
-- Jimena:
-- Wen:
+- [Ariel](https://argallardo.github.io/Ariel-MDEF/term2/03-Prototyping%20for%20Design/)
+- [Jimena](https://jimenasalinasgroppo.github.io/MDEF/term2/04-Prototyping%20for%20Design/#week-3-first-fab-lab-challenge)
+- [Wen](https://wenqianchua.github.io/MDEF/term02/07-prototypingfordesign/#microchallenge-i)
 - [Course Miro](https://miro.com/app/board/uXjVPpFL9hU=/)
 - [HackMD](https://hackmd.io/izcCP8XMRhSYw7DjiI5WZQ?view)
