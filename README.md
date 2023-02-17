@@ -262,6 +262,8 @@ The final results.
 
 ![](https://i.imgur.com/s5FMcKz.jpg)
 
+We learned that different colored LEDs use different resistors. This is important to keep in mind for future product development.
+
 ### End Product Photos
 
 ![](https://i.imgur.com/oJt99Sh.jpg)
@@ -272,7 +274,10 @@ The final results.
 
 ![](https://i.imgur.com/vmUgAhx.jpg)
 
-We learned that different colored LEDs use different resistors. This is important to keep in mind for future product development.
+![](https://i.imgur.com/WpL5eRK.jpg)
+
+
+
 
 ## BOM (Build of Materials)
 
@@ -296,7 +301,7 @@ We learned that different colored LEDs use different resistors. This is importan
 
 ![](https://i.imgur.com/Su4QJbr.jpg)
 
-*link to code here TBD*
+[Arduino Code](https://drive.google.com/file/d/1TTZg7hqhOjdGVAJpMr3z91wafJ6C1bkn/view?usp=sharing)
 
 ### Connecting the LED to the board
 
